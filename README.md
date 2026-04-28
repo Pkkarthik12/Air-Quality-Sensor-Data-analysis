@@ -57,7 +57,7 @@ The heatmap reveals strong inter-pollutant correlations. Notably:
 - **Temperature and Humidity** show moderate negative correlation (−0.58), as expected.
 - Gas sensors are largely **independent of temperature and humidity**, indicating stable sensor behavior under varying environmental conditions.
 
-![Correlation: Gas Sensors vs Temperature and Humidity](outputs/Temperature_and_humidity.png)
+
 
 ---
 
