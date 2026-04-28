@@ -45,7 +45,7 @@ The dataset contains hourly sensor measurements including:
 
 This chart shows how CO, NOx, and Benzene concentrations vary across a 24-hour period. NOx exhibits two prominent peaks — a **morning rush hour spike (around 9:00)** and an **evening peak (around 19:00–20:00)** — consistent with urban traffic patterns. CO and Benzene remain relatively low throughout the day.
 
-![Average Hourly Pollutant Concentration](outputs/Pollutant_data.png)
+
 
 ---
 
