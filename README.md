@@ -65,7 +65,7 @@ The heatmap reveals strong inter-pollutant correlations. Notably:
 
 Anomalies are flagged when a CO sensor reading exceeds **2 standard deviations** above the mean (threshold: **1538.9**). The chart highlights frequent spikes in the period of March 10–27, 2004, pointing to real pollution events or possible sensor instability.
 
-![CO Sensor Anomaly Detection](outputs/Co2_sensor.png)
+
 
 ---
 
